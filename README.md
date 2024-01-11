@@ -1,7 +1,5 @@
 # Bank-Customer-Churn-Prediction
 
-![image](https://user-images.githubusercontent.com/58620359/174948746-5dc3418a-8296-4cc8-9561-f8f12ca9a0a4.png)
-
 ## Problem Statement :
 
 Customer churn or customer attrition is a tendency of clients or customers to abandon a brand and stop being a paying client of a particular business or organization. The percentage of customers that discontinue using a company’s services or products during a specific period is called a customer churn rate. Several bad experiences (or just one) are enough, and a customer may quit. And if a large chunk of unsatisfied customers churn at a time interval, both material losses and damage to reputation would be enormous.
@@ -15,8 +13,6 @@ This is a public dataset, The dataset format is given below.
 Inside the dataset, there are 10000 rows and 14 different columns.
 
 The target column here is **Exited** here.
-
-Click [here](https://www.kaggle.com/datasets/louishgy/churn-modelling?select=Churn_Modelling.csv) to download the dataset.
 
 The details about all the columns are given in the following data dictionary -
 
